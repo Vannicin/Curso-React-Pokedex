@@ -1,0 +1,10 @@
+1. Instalar NodeJS, GIT y VSCode.
+2. Ir a la página de https://create-react-app.dev/docs/adding-typescript/
+3. Crer carpeta del proyecto y abrir terminal
+4. Ejecutar npx create-react-app curso-react --template typescript
+5. Una vez creada la carpeta, ejecutar npm run start
+6. Ingresar npm i react-router-dom
+7. Agregar Bootstrap: npm install react-bootstrap bootstrap
+8. Programar
+9. Insertar íconos
+10. Publicar
